@@ -1,0 +1,58 @@
+Markdown
+--------
+**bold**
+
+*italics*
+
+__underlined text__
+
+~~strikethrough~~
+
+`highlighted text // inline code`
+
+```
+code
+```
+
+> blockquote
+
+>>>blockquote for all text
+
+>(first blockquote)
+>>nested blockquote [blockquote in blockquote]
+
+```diff
+-red text
++green text
+!orange text, green in Discord
+```
+
+```arm
+orange text
+```
+
+```css
+[orange text]
+```
+
+```fix
+yellow text
+```
+
+```asciidoc
+= dark blue and bold text =
+```
+
+```bash
+#grey text
+```
+
+```cs
+'light blue text'
+```
+
+```ml
+TEXT IN CAPITAL WILL GO IN PURPLE
+numbers will go in light blue 0123456789
+code statements will go in red (in for while parseInt etc.)
+```
