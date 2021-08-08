@@ -1,4 +1,4 @@
-```
+
 ![Wumpus](https://d1fdloi71mui9q.cloudfront.net/wgCJw33TDSI2YJmgB7gz_H568ZjctLXNTJ07W "Wumpus! [discord mascot]")
 **This is @milkjug21's Linktree**
 
@@ -27,4 +27,4 @@
 *Email lucaspeel93@outlook.com*
 
 Original linktree - [http://linktr.ee/milkjug21](http://linktr.ee/milkjug21 'Oglinktr.ee')
-```
+
