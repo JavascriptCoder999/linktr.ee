@@ -1,4 +1,4 @@
-
+```
 ![Wumpus](https://d1fdloi71mui9q.cloudfront.net/wgCJw33TDSI2YJmgB7gz_H568ZjctLXNTJ07W "Wumpus! [discord mascot]")
 **This is @milkjug21's Linktree**
 
@@ -20,8 +20,11 @@
 
 [Roblox coding account // profile @bluebucket02](https://web.roblox.com/users/2694082933/profile 'Roblox II/2')
 
-[Docker hub @mouseWheel7](file:///C:/Users/lucas/Desktop/Code/Git/docker.com/u/mouseWheel7 'Docker')
+[Docker hub @mouseWheel7](https://docker.com/u/mouseWheel7 'Docker')
 
-[Github @JavascriptCoder999](file:///C:/Users/lucas/Desktop/Code/Git/github.com/JavascriptCoder999 'GitHub')
+[Github @JavascriptCoder999](https://github.com/JavascriptCoder999 'GitHub')
 
-[]('')
+*Email lucaspeel93@outlook.com*
+
+Original linktree - [http://linktr.ee/milkjug21](http://linktr.ee/milkjug21 'Oglinktr.ee')
+```
